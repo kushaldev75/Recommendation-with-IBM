@@ -30,4 +30,4 @@ The dataset for whole project is provided by IBM and it includes-
 - articles_community.csv: file contains articles description.  
 
 ## Acknowledgments
-I would like to thanks [Udacity](https://eu.udacity.com/) for having this amazing project and [IBM](https://dataplatform.cloud.ibm.com/) for providing the data and motivating data lovers to explore and learn skills.
+I would like to thank [IBM](https://dataplatform.cloud.ibm.com/) for providing the data and motivating data lovers to explore and learn skills.
